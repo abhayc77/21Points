@@ -1,0 +1,36 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.abhay.health",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "monolith",
+        "baseName": "21point",
+        "packageName": "com.abhay.health",
+        "packageFolder": "com/abhay/health",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": "elasticsearch",
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "NTNiMzgyMGZiYjk4MTBhMmE0ZjliN2Y2ODBhM2QwZDJhNDFiZDdlMjgzMjJiOGNmZGFlNDc5ZWEzNGVlNmQ2OGFiMDc3MWFjYjY3ODBkZmQ0YzE5ODk5NWUyZDU1OTFjNDhlMzVkMTZiOTczMWIwYTZmZTQzNGIwNGYzY2UyMjA=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": ["gatling", "protractor"],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en", "hi"]
+    }
+}
